@@ -1,2 +1,15 @@
 # visual-api-tester
-The Visual API Tester &amp; Flow Designer combines the intuitive feel of flowchart-based tools with the power of API testing platforms like Postman. Users can create and connect API blocks (GET, POST, PUT, DELETE), customize headers and JSON bodies, view real-time responses, and save reusable API flows—all within an interactive, node-based canvas.
+A web-based tool to visually design and test REST API workflows using a flowchart-like interface.
+
+Features
+- Drag & drop API blocks (GET, POST, etc.)
+- Connect blocks to form workflows
+- Edit headers, JSON body
+- View formatted responses
+- Save & import workflows
+
+Tech Stack
+- React + TailwindCSS
+- React Flow
+- Axios
+- JSON Viewer
